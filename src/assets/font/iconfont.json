@@ -1,0 +1,23 @@
+{
+  "id": "2373498",
+  "name": "mt_h",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8765228",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "19728672",
+      "name": "用户",
+      "font_class": "user-fill",
+      "unicode": "ebf2",
+      "unicode_decimal": 60402
+    }
+  ]
+}
